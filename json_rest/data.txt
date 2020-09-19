@@ -1,0 +1,11 @@
+{
+  "definicion": "es un formato ligero de intercambio de datos. Leerlo y escribirlo es simple para humanos, mientras que para las máquinas es simple interpretarlo y generarlo",
+  "estuctura": [
+    {
+      "pares_valor": "Una colección de pares de nombre/valor."
+    },
+    {
+      "lista_valores": "lista ordenada de valores"
+    }
+  ]
+}

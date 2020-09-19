@@ -1,0 +1,14 @@
+{
+  "definicion": "En la actualidad se usa en el sentido más amplio para describir cualquier interfaz entre sistemas que utilice directamente HTTP para obtener datos o indicar la ejecución de operaciones sobre los datos, en cualquier formato (XML, JSON, etc)",
+  "caracteriticas": [
+    {
+      "sin_estado": "cada mensaje HTTP contiene toda la información necesaria para comprender la petición. "
+    },
+    {
+      "operaciones_definidas ": "las más importantes son POST, GET, PUT y DELETE"
+    },
+    {
+      "sintaxis_universal": "cada recurso es direccionable únicamente a través de su URI"
+    }
+  ]
+}
